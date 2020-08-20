@@ -9,9 +9,13 @@ Try
 
 ### Matplotlib
 
+Average grain radius over time
+
 [![Jupyter notebook](https://mybinder.org/badge_logo.svg)][binder_matplotlib]
 
 ### Plotly
+
+Phase fractions over time
 
 [![Jupyter notebook](https://mybinder.org/badge_logo.svg)][binder_plotly]
 
