@@ -1,3 +1,4 @@
+gnuplot_kernel
 matplotlib
 numpy
 plotly
